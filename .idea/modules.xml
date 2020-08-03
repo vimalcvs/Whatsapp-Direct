@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Send Direct WhatsApp Message.iml" filepath="$PROJECT_DIR$/Send Direct WhatsApp Message.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Whatsapp-Direct.iml" filepath="$PROJECT_DIR$/.idea/modules/Whatsapp-Direct.iml" group="Whatsapp-Direct" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Whatsapp-Direct/app" />
+    </modules>
+  </component>
+</project>
